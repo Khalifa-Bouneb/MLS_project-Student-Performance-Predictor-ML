@@ -61,6 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 Inspired by educational ML workshops. Dataset is synthetically generated for demonstration.
 
-## Installation
-
-1. Clone the repository:
