@@ -25,15 +25,18 @@ The dataset (`studentPerformance.csv`) includes:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/Student-Performance-Predictor-ML.git
+git clone https://github.com/Khalifa-Bouneb/Student-Performance-Predictor-ML.git
+
 cd Student-Performance-Predictor-ML
 
 2. Install dependencies (use a virtual environment recommended):
+
 pip install -r requirements.txt
 
 ## Usage
 
 1. Open the Jupyter notebook:
+
 jupyter notebook student_predictor.ipynb
 
 2. Run the cells step-by-step:
