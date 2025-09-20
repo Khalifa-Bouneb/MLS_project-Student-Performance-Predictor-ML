@@ -25,7 +25,7 @@ The dataset (`studentPerformance.csv`) includes:
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/Khalifa-Bouneb/Student-Performance-Predictor-ML.git
+git clone https://github.com/Khalifa-Bouneb/MLS_project-Student-Performance-Predictor-ML.git
 
 cd Student-Performance-Predictor-ML
 
